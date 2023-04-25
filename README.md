@@ -8,6 +8,6 @@ javac *.java
 ### Then to test FCFS algorithm run: 
 java Driver FCFS schedule.txt
 ### Then to test Priority algorithm run: 
-java Driver PRI schedule.txt
+java Driver PRI 1-sched.txt
 ### Finally to test RR algorithm run: 
 java Driver RR rr-schedule.txt
